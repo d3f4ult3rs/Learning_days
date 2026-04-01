@@ -1,4 +1,4 @@
-### 🚀 Day 12 – JavaScript & API Vulnerabilities
+### 🚀 Day 13 – JavaScript & API Vulnerabilities
 
 ---
 
