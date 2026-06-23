@@ -4,6 +4,6 @@
 
 ## 🧪 Practice
 
-- 🎯 Completed **2 TryHackMe Labs**
+- 🎯 Completed **1 TryHackMe Labs**
 
 ---
